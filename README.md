@@ -1,3 +1,5 @@
+## For live preview visit : [majd.react-chartjs](https://majd-eddine-ben-tahar.github.io/react-with-chartjs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

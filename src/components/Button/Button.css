@@ -1,0 +1,15 @@
+.btn {
+  display: block;
+  width: 150px;
+  padding: 10px 20px;
+  text-transform: capitalize;
+  background-color: royalblue;
+  color: #fff;
+  border: 2px solid rgb(77, 77, 209);
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 30px auto;
+}
+.btn:hover {
+  background-color: rgb(134, 156, 223);
+}
